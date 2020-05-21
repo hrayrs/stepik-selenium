@@ -1,2 +1,2 @@
 # stepik-selenium
-stepik home work
+python selenium home project from stepik 
